@@ -1,6 +1,7 @@
 # EDA-Shiny-App-Development
 
 ## Project Summary
+![](https://github.com/vvvvveraliu/EDA-Shiny-App-Development/blob/main/LibGo.png)
 This project focuses on developing a shiny app on the Queens public libraries using NYC open data released on the <https://data.cityofnewyork.us/Education/Queens-Library-Branches/kh3d-xhq7> 
 website targeted for library-lovers. This app provides a quick access to information for all those who visit library in a regular basis. Basic functionalities include: 
 * First, we have map functions: location map and popularity map, which show the location of libraries that are open every day and the population density of this community. The more populated the community is, the more libraries are established.
