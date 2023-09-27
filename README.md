@@ -1,4 +1,4 @@
-# EDA-Shiny-App-Development
+# Shiny App - Library Data Visualization and Analysis
 
 ## Project Summary
 ![](https://github.com/vvvvveraliu/EDA-Shiny-App-Development/blob/main/LibGo.png)
